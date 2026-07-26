@@ -1,0 +1,4 @@
+write a program in python that ask the user to type a number using an input. check if the number is valid (0 or positive).Then, calculate and print the factorial of that number.
+write program in simple and easier way that all person will easily understand
+use the most efficiant approach or built-in-library.
+also add the feedback option is program is good,bad,neutral or awesome etc
