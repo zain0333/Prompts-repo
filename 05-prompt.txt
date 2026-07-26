@@ -1,0 +1,21 @@
+create a code for my pick and drop service for school students.
+
+route for my pickup is: shamsabad,6th road,double road,I8-1,I8-2,I8-3and then IMCB I8-3 Islamabad
+
+fees for pick and drop service:
+
+1: shamsabad to IMCB I8-3 Islamabad (4500pkr)
+
+2: 6th road to IMCB I8-3 Islamabad (4000pkr)
+
+3: double road to IMCB I8-3 Islamabad (3500pkr)
+
+4: I8 sectors to IMCB I8-3 Islamabad (3000pkr)
+
+Timing of pick up 7:00 and drop timming 3: 00
+
+vehicle number plate DIJ 324
+
+contact number 03234132563
+
+thankyou function
