@@ -1,0 +1,104 @@
+Create a modern, responsive, and user-friendly website for a hotel named "Hotel Haveli One" using HTML, CSS, and JavaScript.
+
+The website should be attractive, easy to use, and accessible on desktop, tablet, and mobile devices.
+
+Include the following pages and sections:
+
+1. Home
+- A beautiful hero banner with a welcome message.
+- A high-quality hotel image.
+- A "Book Now" button.
+- A short introduction to Hotel Haveli One.
+
+2. About Us
+- Information about the hotel.
+- Our mission and values.
+- Why guests should choose Hotel Haveli One.
+
+3. Rooms
+Display different room types with:
+- Deluxe Room
+- Family Room
+- Luxury Suite
+
+Each room should include:
+- A high-quality image
+- Room name
+- Price per night
+- Features (Wi-Fi, Air Conditioning, TV, Breakfast, Private Bathroom)
+- "Book Now" button
+
+4. Facilities
+Show hotel facilities such as:
+- Free Wi-Fi
+- Restaurant
+- Swimming Pool
+- Gym
+- Parking
+- Conference Hall
+- Airport Pickup
+- 24/7 Room Service
+
+5. Gallery
+Display attractive images of:
+- Hotel exterior
+- Reception
+- Guest rooms
+- Restaurant
+- Swimming pool
+- Lobby
+
+6. Restaurant
+Include:
+- Breakfast
+- Lunch
+- Dinner
+- Traditional and international food
+- Images of meals
+
+7. Customer Reviews
+Display guest testimonials with ratings.
+
+8. Contact Us
+Include:
+- Hotel Address
+- Phone Number
+- Email Address
+- Google Maps location
+- Contact Form (Name, Email, Phone Number, Message)
+
+9. Help Center
+Include Frequently Asked Questions such as:
+- How do I book a room?
+- What time is check-in and check-out?
+- Is breakfast included?
+- Can I cancel my booking?
+- Do you offer free parking?
+
+10. Booking Section
+Allow visitors to:
+- Select check-in date
+- Select check-out date
+- Choose room type
+- Select number of guests
+- Click "Book Now"
+
+11. Footer
+Include:
+- Copyright
+- Social media icons
+- Quick navigation links
+- Contact information
+
+Design Requirements:
+- Modern and professional design
+- Luxury hotel color theme (white, gold, dark blue)
+- Smooth scrolling animations
+- Hover effects
+- Responsive layout
+- Fast loading
+- Clean fonts
+- Easy navigation for all users
+- Well-organized HTML, CSS, and JavaScript code
+
+Generate complete HTML, CSS, and JavaScript files with clean, well-commented code.
