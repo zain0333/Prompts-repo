@@ -1,0 +1,239 @@
+give me code of my cricket game
+
+TEAMS:
+
+Pakistan
+
+India
+
+Australia
+
+England
+
+New Zealand
+
+West Indies
+
+Bangladesh
+
+Afghanistan
+
+Zimbabwe
+
+Ireland
+
+Match Types:
+
+T20
+
+One Day International (ODI)
+
+Test Match
+
+player Management
+
+Edit player names
+
+Edit jersey numbers
+
+Edit batting style (Right-hand, Left-hand)
+
+Edit bowling style (Fast, Medium, Spin)
+
+Edit player role (Batsman, Bowler, All-rounder, Wicketkeeper)
+
+Save player changes
+
+Gameplay Features
+
+Batting
+
+Bowling
+
+Fielding
+
+Wicketkeeping
+
+Running between wickets
+
+Sixes and fours
+
+Realistic ball physics
+
+AI-controlled opponents
+
+Coin toss before every match
+
+Day and night matches
+
+Dynamic weather (optional)
+
+DRS (Decision Review System)
+
+LBW review
+
+Edge detection (UltraEdge)
+
+Ball Tracking
+
+Hawk-Eye animation
+
+Third umpire decision
+
+Limited reviews per team
+
+Stadiums
+
+
+
+Include 15 stadiums:
+
+
+
+Gaddafi Stadium
+
+National Stadium Karachi
+
+Rawalpindi Cricket Stadium
+
+Multan Cricket Stadium
+
+Lord's Cricket Ground
+
+The Oval
+
+Melbourne Cricket Ground
+
+Sydney Cricket Ground
+
+Eden Gardens
+
+Wankhede Stadium
+
+Narendra Modi Stadium
+
+Kensington Oval
+
+Sher-e-Bangla Stadium
+
+Harare Sports Club
+
+Dublin Cricket Ground
+
+
+
+Each stadium should have:
+
+
+
+70-meter boundaries
+
+Stadium name displayed
+
+Crowd animations
+
+Floodlights
+
+Scoreboard
+
+Commentary speakers
+
+Umpires:
+
+Two on-field umpires
+
+One third umpire
+
+Toss referee
+
+Match Features:
+
+Powerplay
+
+Free Hit
+
+No Ball
+
+Wide Ball
+
+Leg Bye
+
+Bye
+
+Run Out
+
+Stumping
+
+Catch
+
+LBW
+
+Tournament Modes:
+
+World Cup
+
+Champions Trophy
+
+Test Championship
+
+Asia Cup
+
+Bilateral Series
+
+Practice Match
+
+Quick Match
+
+Sound:
+
+Crowd cheering
+
+Bat hitting ball
+
+Appeals
+
+Commentary
+
+National anthems
+
+Stadium music
+
+Match End:
+
+Winning team celebration
+
+Fireworks
+
+Trophy presentation
+
+Player of the Match
+
+Match statistics
+
+Scorecard
+
+Highlights replay
+
+User Interface:
+
+Main menu
+
+Team selection
+
+Stadium selection
+
+Match settings
+
+Pause menu
+
+Settings
+
+Player editor
+
+Scoreboard
+
+Leaderboards
+
+Save and load game progress
+
+Technical Require
