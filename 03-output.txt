@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Safe Travel Bus Service</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#003366;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+nav{
+    background:#00509e;
+    padding:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+.hero{
+    background:#0077cc;
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+}
+
+.hero h1{
+    font-size:40px;
+}
+
+.hero p{
+    margin-top:15px;
+    font-size:18px;
+}
+
+section{
+    width:90%;
+    max-width:1100px;
+    margin:30px auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.1);
+}
+
+h2{
+    color:#003366;
+    margin-bottom:15px;
+}
+
+ul{
+    margin-left:20px;
+    line-height:2;
+}
+
+.route{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:15px;
+}
+
+.stop{
+    background:#e6f2ff;
+    padding:15px;
+    border-radius:8px;
+    text-align:center;
+    font-weight:bold;
+}
+
+footer{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+
+button{
+    background:#003366;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:5px;
+    cursor:pointer;
+    margin-top:20px;
+}
+
+button:hover{
+    background:#00509e;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>Safe Travel Bus Service</h1>
+<p>Comfort • Safety • Reliable Journey</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#rules">Travel Rules</a>
+<a href="#fare">Fare</a>
+<a href="#services">Services</a>
+<a href="#route">Route</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="hero">
+<h1>Welcome to Safe Travel Bus Service</h1>
+<p>Travel comfortably with modern facilities and professional service.</p>
+<button>Book Your Seat</button>
+</div>
+
+<section id="about">
+<h2>About Our Bus Service</h2>
+
+<p>
+We welcome all passengers to travel with us. Our goal is to provide a
+comfortable, safe, and enjoyable journey for everyone.
+</p>
+
+</section>
+
+<section id="rules">
+
+<h2>Travel Rules</h2>
+
+<ul>
+<li>Everyone is welcome to travel.</li>
+<li>Passengers who are under the influence of drugs will not be allowed to board the bus.</li>
+<li>Passengers are expected to follow safety instructions during the journey.</li>
+</ul>
+
+</section>
+
+<section id="fare">
+
+<h2>Fare Information</h2>
+
+<ul>
+<li>Children under 7 years: <strong>Free Travel</strong></li>
+<li>Senior citizens above 60 years: <strong>Free Travel</strong></li>
+<li>Passengers aged 7 to 60 years: <strong>PKR 5,000</strong></li>
+</ul>
+
+</section>
+
+<section id="services">
+
+<h2>Bus Facilities</h2>
+
+<ul>
+<li>Professional Bus Attendant</li>
+<li>Air Conditioning (AC)</li>
+<li>Heater for Winter</li>
+<li>Comfortable Seats</li>
+<li>Clean Environment</li>
+<li>Safe and Secure Travel</li>
+</ul>
+
+</section>
+
+<section id="route">
+
+<h2>Travel Route</h2>
+
+<div class="route">
+
+<div class="stop">Barian</div>
+
+<div class="stop">Kalimitti</div>
+
+<div class="stop">Azizabad</div>
+
+<div class="stop">Karna</div>
+
+<div class="stop">Darya Gali</div>
+
+<div class="stop">Kuldana</div>
+
+<div class="stop">Sunny Bank</div>
+
+<div class="stop">Lari Adda</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<p><strong>Phone:</strong> +92-300-1234567</p>
+
+<p><strong>Email:</strong> info@safetravelbus.com</p>
+
+<p><strong>Address:</strong> Main Bus Terminal, Pakistan</p>
+
+</section>
+
+<footer>
+
+<p>&copy; 2026 Safe Travel Bus Service. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>
