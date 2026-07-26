@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>School Pick & Drop Service</title>
+
+<style>
+body{
+    font-family:Arial,sans-serif;
+    margin:0;
+    background:#f4f4f4;
+}
+header{
+    background:#0b5ed7;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+nav{
+    background:#084298;
+    text-align:center;
+    padding:10px;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+}
+section{
+    width:90%;
+    max-width:900px;
+    margin:20px auto;
+    background:white;
+    padding:20px;
+    border-radius:8px;
+    box-shadow:0 2px 8px gray;
+}
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+table,th,td{
+    border:1px solid #ccc;
+}
+th{
+    background:#0b5ed7;
+    color:white;
+}
+th,td{
+    padding:10px;
+    text-align:center;
+}
+button{
+    background:#0b5ed7;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+}
+button:hover{
+    background:#084298;
+}
+footer{
+    background:#0b5ed7;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:20px;
+}
+</style>
+
+<script>
+function thankYou(){
+    alert("Thank you for choosing our School Pick & Drop Service! We look forward to serving you.");
+}
+</script>
+
+</head>
+<body>
+
+<header>
+<h1>School Pick & Drop Service</h1>
+<p>Safe • Reliable • On Time</p>
+</header>
+
+<nav>
+<a href="#route">Route</a>
+<a href="#fees">Fees</a>
+<a href="#timing">Timing</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="route">
+<h2>Pickup Route</h2>
+<ul>
+<li>Shamsabad</li>
+<li>6th Road</li>
+<li>Double Road</li>
+<li>I-8/1</li>
+<li>I-8/2</li>
+<li>I-8/3</li>
+<li><strong>Destination: IMCB I-8/3 Islamabad</strong></li>
+</ul>
+</section>
+
+<section id="fees">
+<h2>Monthly Fees</h2>
+
+<table>
+<tr>
+<th>Route</th>
+<th>Fee (PKR)</th>
+</tr>
+
+<tr>
+<td>Shamsabad → IMCB I-8/3</td>
+<td>4,500</td>
+</tr>
+
+<tr>
+<td>6th Road → IMCB I-8/3</td>
+<td>4,000</td>
+</tr>
+
+<tr>
+<td>Double Road → IMCB I-8/3</td>
+<td>3,500</td>
+</tr>
+
+<tr>
+<td>I-8 Sectors → IMCB I-8/3</td>
+<td>3,000</td>
+</tr>
+
+</table>
+</section>
+
+<section id="timing">
+<h2>Service Timing</h2>
+
+<p><strong>Pickup Time:</strong> 7:00 AM</p>
+
+<p><strong>Drop Time:</strong> 3:00 PM</p>
+
+<p><strong>Vehicle Number:</strong> DIJ-324</p>
+
+</section>
+
+<section id="contact">
+<h2>Contact Us</h2>
+
+<p><strong>Phone:</strong> 0323-4132563</p>
+
+<p>If you would like to register your child or ask any questions, please contact us.</p>
+
+<button onclick="thankYou()">Register Now</button>
+
+</section>
+
+<footer>
+<p>Thank you for choosing our School Pick & Drop Service.</p>
+<p>&copy; 2026 School Pick & Drop Service. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
