@@ -1,0 +1,55 @@
+import random
+
+print("===================================")
+print("      SIMPLE CRICKET GAME")
+print("===================================")
+
+team1 = input("Enter Team 1: ")
+team2 = input("Enter Team 2: ")
+
+overs = int(input("Enter number of overs: "))
+
+balls = overs * 6
+
+def play_innings(team):
+    print(f"\n{team} is batting...\n")
+
+    score = 0
+    wickets = 0
+
+    for ball in range(1, balls + 1):
+
+        if wickets == 10:
+            break
+
+        outcome = random.choice([0,1,2,3,4,6,"W"])
+
+        if outcome == "W":
+            wickets += 1
+            print(f"Ball {ball}: OUT!")
+        else:
+            score += outcome
+            print(f"Ball {ball}: {outcome} runs")
+
+    print(f"\n{team} Score: {score}/{wickets}\n")
+    return score
+
+score1 = play_innings(team1)
+
+print("---------------------------")
+
+score2 = play_innings(team2)
+
+print("===========================")
+
+print(team1, ":", score1)
+print(team2, ":", score2)
+
+if score1 > score2:
+    print(team1, "wins!")
+elif score2 > score1:
+    print(team2, "wins!")
+else:
+    print("Match Draw!")
+
+print("===========================")
