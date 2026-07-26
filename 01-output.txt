@@ -1,0 +1,90 @@
+# Fashion World Website Development Prompt
+
+Create a modern, responsive, and visually appealing e-commerce website for a clothing store named **Fashion World** using **HTML, CSS, and JavaScript**.
+
+## Website Requirements
+
+### Homepage
+
+* A professional hero section with a welcome message.
+* A stylish banner featuring the latest fashion collection.
+* A "Shop Now" button.
+* Attractive animations and smooth scrolling.
+
+### Navigation Menu
+
+Include the following pages:
+
+* Home
+* Products
+* About Us
+* Contact Us
+* Help
+* Return & Exchange Policy
+
+### Product Categories
+
+#### Men's Wear
+
+* Men's Shirt — Price: PKR 1,500
+* Men's Shalwar Kameez — Price: PKR 3,500
+
+#### Women's Wear
+
+* Women's Casual Dress — Price: PKR 4,000
+* Women's Traditional Dress — Price: PKR 2,000
+
+#### Kids' Wear
+
+* Kids' Trouser Shirt — Price: PKR 1,500
+* Kids' Shalwar Kameez — Price: PKR 750
+
+Each product should include:
+
+* High-quality clothing image
+* Product name
+* Price
+* Short description
+* "Buy Now" button
+
+### About Us
+
+Add a brief introduction describing Fashion World as a trusted clothing store offering stylish and affordable fashion for men, women, and kids.
+
+### Contact Us
+
+Include:
+
+* Phone Number
+* Email Address
+* Store Address
+* Contact Form (Name, Email, Message)
+
+### Help Section
+
+Include Frequently Asked Questions (FAQ), such as:
+
+* How to place an order
+* Delivery time
+* Payment methods
+* How to contact customer support
+
+### Return & Exchange Policy
+
+Explain:
+
+* Returns accepted within 7 days
+* Products must be unused and in original condition
+* Exchange available for incorrect size or damaged items
+* Refund process
+
+### Design Requirements
+
+* Modern and clean layout
+* Responsive design for desktop, tablet, and mobile devices
+* Attractive color scheme
+* Smooth animations and hover effects
+* Easy-to-read typography
+* Professional footer with copyright, social media links, and quick navigation links
+
+Generate complete, well-structured HTML, CSS, and JavaScript code for the website.
