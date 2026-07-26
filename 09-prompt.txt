@@ -1,0 +1,63 @@
+create a code for my iphone shop.
+
+Shop name APPLE HUB.
+
+1: home 
+
+Heading: "WELCOME TO APPLE HUB"
+
+Subheading: "Discover the Latest iPhones at the Best Prices."
+
+Button: "Shop Now"
+
+2: products
+
+Product image
+
+iPhone model name
+
+Storage capacity
+
+Color
+
+Display size
+
+Camera specifications
+
+Battery information
+
+Price
+
+Stock availability
+
+"Buy Now" button
+
+3: services:
+
+New iPhone Sales
+
+Trade-In Program
+
+Device Financing
+
+Phone Setup Assistance
+
+Screen Protection Installation
+
+Accessories Sales
+
+Home Delivery
+
+Customer Support
+
+4 :contact us:
+
+Shop address
+
+Phone number
+
+Email address
+
+Business hours
+
+Contact form (Name, Email, Phone Number, Message)
