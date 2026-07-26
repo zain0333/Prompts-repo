@@ -1,0 +1,16 @@
+Create a modern and attractive website for a clothing store called "Fashion World".
+
+The website should include:
+- A professional homepage with a welcome message.
+- A navigation menu (Home, Products, About, Contact).
+- Categories for Men's Wear, Women's Wear, and Kids' Wear.
+- High-quality clothing images.
+- Product names, prices, and short descriptions.
+- A "Buy Now" or "Order Now" button for each product.
+- A Contact Us section with phone number, email, and address.
+- A Help section with frequently asked questions.
+- A Return and Exchange Policy page.
+- A responsive design that works on desktop and mobile devices.
+- A modern color scheme with clean fonts and an easy-to-use layout.
+
+Use HTML, CSS, and JavaScript to create the website.
