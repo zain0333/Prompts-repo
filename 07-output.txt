@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CARS ZONE | Car Showroom</title>
+
+<!-- Font Awesome Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#111;
+    color:#fff;
+    padding:20px;
+    position:sticky;
+    top:0;
+    z-index:1000;
+}
+
+header h1{
+    text-align:center;
+    font-size:38px;
+}
+
+nav{
+    margin-top:15px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:gold;
+}
+
+/* Hero */
+
+.hero{
+    height:90vh;
+    background:url("https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1600") center center/cover no-repeat;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+
+.hero-content{
+    background:rgba(0,0,0,.65);
+    padding:40px;
+    border-radius:10px;
+    color:white;
+}
+
+.hero h2{
+    font-size:55px;
+    margin-bottom:15px;
+}
+
+.hero p{
+    font-size:22px;
+}
+
+.btn{
+    display:inline-block;
+    margin-top:25px;
+    background:red;
+    color:white;
+    text-decoration:none;
+    padding:14px 30px;
+    border-radius:5px;
+    font-weight:bold;
+}
+
+.btn:hover{
+    background:darkred;
+}
+
+section{
+    padding:60px 8%;
+}
+
+section h2{
+    text-align:center;
+    margin-bottom:35px;
+    font-size:35px;
+}
+
+/* Cars */
+
+.car-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:25px;
+}
+
+.car{
+    background:white;
+    border-radius:10px;
+    overflow:hidden;
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
+}
+
+.car img{
+    width:100%;
+    height:220px;
+    object-fit:cover;
+}
+
+.car-info{
+    padding:18px;
+}
+
+.car-info h3{
+    margin-bottom:10px;
+}
+
+.car-info p{
+    margin:8px 0;
+}
+
+.price{
+    color:red;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.car button{
+    width:100%;
+    padding:12px;
+    border:none;
+    background:#111;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.car button:hover{
+    background:red;
+}
+
+/* Categories */
+
+.categories{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:20px;
+}
+
+.category{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:25px;
+    border-radius:8px;
+    font-weight:bold;
+    font-size:20px;
+}
+
+.category:hover{
+    background:red;
+}
+
+/* Services */
+
+.services{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.service{
+    background:white;
+    padding:20px;
+    border-left:6px solid red;
+    border-radius:6px;
+    box-shadow:0 3px 10px rgba(0,0,0,.15);
+}
+
+/* Gallery */
+
+.gallery{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.gallery img{
+    width:100%;
+    height:220px;
+    object-fit:cover;
+    border-radius:10px;
+}
+
+/* Footer */
+
+footer{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:40px 20px;
+}
+
+.social{
+    margin:20px 0;
+}
+
+.social a{
+    color:white;
+    font-size:32px;
+    margin:0 15px;
+    transition:.3s;
+}
+
+.social a:hover{
+    color:red;
+}
+
+footer p{
+    margin-top:15px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>CARS ZONE</h1>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#cars">Cars</a>
+<a href="#categories">Categories</a>
+<a href="#services">Services</a>
+<a href="#gallery">Gallery</a>
+</nav>
+
+</header>
+
+<!-- HOME -->
+
+<section class="hero" id="home">
+
+<div class="hero-content">
+
+<h2>WELCOME TO CARS ZONE</h2>
+
+<p>Luxury Cars • Premium Quality • Best Deals</p>
+
+<a href="#cars" class="btn">Explore Cars</a>
+
+</div>
+
+</section>
+
+<!-- Featured Cars -->
+
+<section id="cars">
+
+<h2>Featured Cars</h2>
+
+<div class="car-container">
+
+<div class="car">
+<img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=600">
+<div class="car-info">
+<h3>BMW 5 Series</h3>
+<p><b>Model Year:</b> 2025</p>
+<p><b>Engine:</b> 2.0L Turbo</p>
+<p><b>Transmission:</b> Automatic</p>
+<p><b>Fuel:</b> Petrol</p>
+<p class="price">$62,000</p>
+</div>
+<button>View Details</button>
+</div>
+
+<div class="car">
+<img src="https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=600">
+<div class="car-info">
+<h3>Toyota Corolla</h3>
+<p><b>Model Year:</b> 2024</p>
+<p><b>Engine:</b> 1.8L</p>
+<p><b>Transmission:</b> Automatic</p>
+<p><b>Fuel:</b> Petrol</p>
+<p class="price">$27,000</p>
+</div>
+<button>View Details</button>
+</div>
+
+<div class="car">
+<img src="https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=600">
+<div class="car-info">
+<h3>Tesla Model 3</h3>
+<p><b>Model Year:</b> 2025</p>
+<p><b>Engine:</b> Electric</p>
+<p><b>Transmission:</b> Automatic</p>
+<p><b>Fuel:</b> Electric</p>
+<p class="price">$49,000</p>
+</div>
+<button>View Details</button>
+</div>
+
+</div>
+
+</section>
+
+<!-- Categories -->
+
+<section id="categories">
+
+<h2>Car Categories</h2>
+
+<div class="categories">
+
+<div class="category">Sedans</div>
+
+<div class="category">SUVs</div>
+
+<div class="category">Sports Cars</div>
+
+<div class="category">Luxury Cars</div>
+
+<div class="category">Electric Vehicles</div>
+
+<div class="category">Pickup Trucks</div>
+
+</div>
+
+</section>
+
+<!-- Services -->
+
+<section id="services">
+
+<h2>Our Services</h2>
+
+<div class="services">
+
+<div class="service">🚗 New Car Sales</div>
+
+<div class="service">🚘 Used Car Sales</div>
+
+<div class="service">💰 Vehicle Financing</div>
+
+<div class="service">🛡 Car Insurance Assistance</div>
+
+<div class="service">📄 Vehicle Registration</div>
+
+<div class="service">🔄 Car Trade-In</div>
+
+<div class="service">📅 Test Drive Booking</div>
+
+<div class="service">🔧 Vehicle Maintenance Support</div>
+
+</div>
+
+</section>
+
+<!-- Gallery -->
+
+<section id="gallery">
+
+<h2>Showroom Gallery</h2>
+
+<div class="gallery">
+
+<img src="https://images.unsplash.com/photo-1502877338535-766e1452684a?w=600">
+
+<img src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600">
+
+<img src="https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=600">
+
+<img src="https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=600">
+
+</div>
+
+</section>
+
+<!-- Footer -->
+
+<footer>
+
+<h2>CARS ZONE</h2>
+
+<p>Your Trusted Luxury Car Showroom</p>
+
+<div class="social">
+
+<a href="#"><i class="fab fa-facebook"></i></a>
+
+<a href="#"><i class="fab fa-instagram"></i></a>
+
+<a href="#"><i class="fab fa-tiktok"></i></a>
+
+<a href="#"><i class="fab fa-youtube"></i></a>
+
+<a href="#"><i class="fab fa-whatsapp"></i></a>
+
+</div>
+
+<h3>THANKS FOR VISITING CARS ZONE PAGE!</h3>
+
+<p>&copy; 2026 CARS ZONE. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>
