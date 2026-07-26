@@ -1,0 +1,51 @@
+create a code for my kite shop business.
+
+home:
+
+ large banner showing colorful kites
+
+ heading: "WELCOME TO SKY KITES"
+
+ shop now function
+
+the kites will be access all age peoples
+
+our product:
+
+Product image
+
+Product name
+
+Size
+
+Material
+
+Color
+
+Price
+
+Stock availability
+
+"Buy Now" button
+
+Our Services
+
+Retail Sales
+
+Wholesale Orders
+
+Custom Kite Design
+
+Festival Packages
+
+Online Ordering
+
+Home Delivery
+
+Gift Packaging
+
+Customer Support
+
+Display:
+
+"THANK YOU FOR VISITING SKY KITES!"
