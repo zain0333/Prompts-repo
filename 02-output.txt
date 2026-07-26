@@ -1,0 +1,150 @@
+Create a complete, modern, responsive, and professional hotel website for a luxury hotel named "Hotel Haveli One" using HTML, CSS, and JavaScript.
+
+Generate the website as multiple files with the following structure:
+
+Hotel-Haveli-One/
+│── index.html
+│── about.html
+│── rooms.html
+│── gallery.html
+│── restaurant.html
+│── booking.html
+│── contact.html
+│── help.html
+│── return-policy.html
+│── css/
+│   └── style.css
+│── js/
+│   └── script.js
+│── images/
+
+Requirements:
+
+Home Page
+- Full-screen hero section with a luxury hotel background image.
+- Hotel logo and name.
+- Welcome message.
+- "Book Now" and "Explore Rooms" buttons.
+- Smooth scrolling navigation.
+
+Navigation Bar
+- Home
+- About
+- Rooms
+- Gallery
+- Restaurant
+- Booking
+- Contact
+- Help
+
+About Us
+- Hotel history.
+- Mission and vision.
+- Why choose Hotel Haveli One.
+- Professional hotel images.
+
+Rooms Page
+Include three room types:
+1. Deluxe Room
+2. Family Room
+3. Luxury Suite
+
+For every room include:
+- Large image
+- Room description
+- Features
+- Price per night
+- Book Now button
+
+Facilities
+Display icons and descriptions for:
+- Free Wi-Fi
+- Air Conditioning
+- Swimming Pool
+- Restaurant
+- Gym
+- Conference Hall
+- Airport Pickup
+- Free Parking
+- Laundry Service
+- 24/7 Room Service
+
+Gallery
+Create a beautiful image gallery showing:
+- Hotel exterior
+- Reception
+- Lobby
+- Deluxe Room
+- Family Room
+- Luxury Suite
+- Restaurant
+- Swimming Pool
+- Garden
+- Conference Hall
+
+Restaurant
+Display:
+- Breakfast menu
+- Lunch menu
+- Dinner menu
+- Traditional Pakistani food
+- International dishes
+- Food images
+
+Booking Page
+Include a booking form with:
+- Guest Name
+- Email
+- Phone Number
+- Check-in Date
+- Check-out Date
+- Number of Guests
+- Room Type
+- Special Requests
+- Book Now button
+
+Customer Reviews
+Display guest reviews with:
+- Guest name
+- Star rating
+- Review text
+
+Contact Page
+Include:
+- Hotel address
+- Phone number
+- Email address
+- Google Maps location
+- Contact form
+
+Help Page
+Include Frequently Asked Questions:
+- How do I book a room?
+- What time is check-in and check-out?
+- Can I cancel my booking?
+- Do you offer airport pickup?
+- Is breakfast included?
+- How can I contact customer support?
+
+Footer
+Include:
+- Hotel logo
+- Quick links
+- Contact information
+- Social media icons
+- Copyright notice
+
+Design Requirements
+- Luxury and elegant design
+- White, gold, and dark blue color theme
+- Responsive layout for desktop, tablet, and mobile
+- Smooth animations
+- Hover effects
+- Clean typography
+- Fast loading
+- SEO-friendly HTML
+- Well-commented code
+- Semantic HTML5 elements
+- Accessible navigation and forms
+
+Generate complete, production-ready HTML, CSS, and JavaScript code for every page with all files properly linked together.
