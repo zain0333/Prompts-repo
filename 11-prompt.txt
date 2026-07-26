@@ -1,0 +1,53 @@
+Header with store logo, name, and navigation menu.
+Hero section with a welcome message, a background image, and a "Shop Now" button.
+About Us section describing the store.
+Product Categories with images, names, prices, and an "Add to Cart" button for each product.
+
+Products should include:
+
+Rice – Rs. 250/kg
+Wheat Flour – Rs. 180
+Sugar – Rs. 170/kg
+Cooking Oil – Rs. 650
+Tea – Rs. 350
+Milk – Rs. 220
+Eggs – Rs. 320/dozen
+Bread – Rs. 120
+Soap – Rs. 150
+Shampoo – Rs. 450
+Biscuits – Rs. 100
+Soft Drinks – Rs. 180
+Special Offers section.
+Delivery Information section.
+Payment Methods showing:
+Cash
+Easypaisa
+JazzCash
+Bank Transfer
+Credit/Debit Card
+Return & Exchange Policy section.
+Customer Reviews section with sample reviews.
+Contact Us section containing:
+Name field
+Phone number field
+Email field
+Message field
+Submit button
+Store Information including:
+Address
+Phone number
+Email
+Business hours
+Google Maps placeholder.
+Footer with copyright and social media links.
+
+Requirements:
+
+Use a professional color scheme.
+Make the website fully responsive for mobile, tablet, and desktop.
+Add smooth scrolling and simple hover animations.
+Use attractive product cards with images.
+Write clean, well-commented code.
+Place all HTML, CSS, and JavaScript in a single file (index.html).
+
+This prompt is detailed enough to generate a complete, professional general store website in one HTML file.
