@@ -1,0 +1,118 @@
+# Undergarment Shop Website Prompt
+
+Create a modern, professional, and fully responsive one-page **Undergarment Shop** website using **HTML, CSS, and JavaScript**.
+
+## Website name:
+             Comfort Wear
+             
+Header
+
+* Shop logo
+* Shop name
+* Navigation menu (Home, Products, About, Offers, Contact)
+
+### Hero Section
+
+* Attractive background image
+* Welcome message
+* Short description
+* "Shop Now" button
+
+### About Us
+
+Write a short introduction about the shop and its commitment to quality, comfort, and affordability.
+
+### Product Categories
+
+Create attractive product cards with images, product names, prices, and "Add to Cart" buttons.
+
+Products should include:
+
+* Men's Briefs
+* Men's Boxers
+* Men's Vests
+* Men's Thermal Wear
+* Women's Bras
+* Women's Panties
+* Women's Camisoles
+* Women's Shapewear
+* Sports Bras
+* Kids' Undergarments
+* Socks
+* Undershirts
+
+### Special Offers
+
+Display current discounts and promotional offers.
+
+### Size Guide
+
+Include sizes such as XS, S, M, L, XL, XXL, and XXXL.
+
+### Brands
+
+Show popular brands sold by the shop.
+
+### Payment Methods
+
+* Cash
+* Easypaisa
+* JazzCash
+* Bank Transfer
+* Credit/Debit Card
+
+### Delivery Information
+
+* Home delivery
+* Delivery time
+* Shipping charges
+* Free delivery offer
+
+### Return & Exchange Policy
+
+Explain the shop's return and exchange policy.
+
+### Customer Reviews
+
+Add sample customer testimonials.
+
+### Contact Us
+
+Include:
+
+* Name
+* Phone Number
+* Email
+* Message
+* Submit Button
+
+### Store Information
+
+* Shop address
+* Phone number
+* Email
+* Business hours
+
+### Google Maps
+
+Include a Google Maps placeholder.
+
+### Footer
+
+Include:
+
+* Copyright
+* Facebook
+* Instagram
+* WhatsApp
+* TikTok
+
+## Requirements
+
+* Use a clean, modern, and professional design.
+* Use soft, attractive colors.
+* Make the website fully responsive for mobile, tablet, and desktop.
+* Add smooth scrolling and simple hover animations.
+* Use attractive product cards with high-quality images.
+* Write clean, well-commented code.
+* Place all HTML, CSS, and JavaScript in a single `index.html` file.
