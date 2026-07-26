@@ -1,0 +1,63 @@
+create a website for my car showroom.
+
+showroom name : CARS ZONE
+
+1: home
+
+   large banner with luxury cars
+
+   heading "WELCOME TO CARS ZONE"
+
+2: Cars featured
+
+ Car name
+
+Model year
+
+Engine type
+
+Transmission
+
+Fuel type
+
+Price
+
+"View Details" button
+
+4:Cars categories
+
+Sedans
+
+SUVs
+
+Sports Cars
+
+Luxury Cars
+
+Electric Vehicles
+
+Pickup Trucks
+
+5:services
+
+New Car Sales
+
+Used Car Sales
+
+Vehicle Financing
+
+Car Insurance Assistance
+
+Vehicle Registration
+
+Car Trade-In
+
+Test Drive Booking
+
+Vehicle Maintenance Support
+
+Display showroom photos
+
+add icons for Facebook, Instagram, TikTok, YouTube, and WhatsApp.
+
+THANKS FOR VISITING CARS ZONE PAGE!
