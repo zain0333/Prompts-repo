@@ -1,0 +1,15 @@
+give me a code for my buses business .
+
+In my buses all the passengers will travel, not the restriction for any person.
+
+but the person who currently under influence of drugs will not enter.
+
+Passengers who age above 60 and less than 7 will travel free but the passenger who age between 7 to 60 will pay 5000 rupees.
+
+In my bus all services will provided by attendant.
+
+AC and heater will install in the bus.
+
+plan route:
+      (barian,kalimitti,azizabad,karna,darya gali,kuldana,sunny bank,lari adda)
+Time of bus(7:00am-10-00pm)
