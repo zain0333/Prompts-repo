@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SKY KITES</title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, sans-serif;
+}
+
+body{
+background:#f5f9ff;
+}
+
+header{
+background:#0088cc;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#006699;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-weight:bold;
+}
+
+nav a:hover{
+color:yellow;
+}
+
+.hero{
+height:500px;
+background:url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1600") center/cover no-repeat;
+display:flex;
+justify-content:center;
+align-items:center;
+text-align:center;
+}
+
+.hero-content{
+background:rgba(0,0,0,.55);
+padding:40px;
+border-radius:10px;
+color:white;
+}
+
+.hero h1{
+font-size:55px;
+margin-bottom:15px;
+}
+
+.hero p{
+font-size:22px;
+margin-bottom:20px;
+}
+
+.btn{
+background:#ff6600;
+color:white;
+padding:15px 35px;
+text-decoration:none;
+border-radius:5px;
+font-size:20px;
+}
+
+.btn:hover{
+background:red;
+}
+
+section{
+padding:50px 8%;
+}
+
+h2{
+text-align:center;
+margin-bottom:30px;
+font-size:35px;
+color:#006699;
+}
+
+.products{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:25px;
+}
+
+.product{
+background:white;
+border-radius:10px;
+overflow:hidden;
+box-shadow:0 5px 12px rgba(0,0,0,.2);
+}
+
+.product img{
+width:100%;
+height:220px;
+object-fit:cover;
+}
+
+.info{
+padding:18px;
+}
+
+.info h3{
+margin-bottom:10px;
+}
+
+.info p{
+margin:6px 0;
+}
+
+.price{
+font-size:22px;
+color:red;
+font-weight:bold;
+}
+
+.stock{
+color:green;
+font-weight:bold;
+}
+
+button{
+width:100%;
+padding:12px;
+background:#0088cc;
+color:white;
+border:none;
+font-size:18px;
+cursor:pointer;
+}
+
+button:hover{
+background:#ff6600;
+}
+
+.services{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+}
+
+.service{
+background:white;
+padding:20px;
+border-left:6px solid orange;
+border-radius:8px;
+box-shadow:0 3px 10px rgba(0,0,0,.15);
+font-size:18px;
+}
+
+footer{
+background:#006699;
+color:white;
+text-align:center;
+padding:35px;
+margin-top:40px;
+}
+
+footer h2{
+color:white;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+
+<h1>🪁 SKY KITES</h1>
+
+<p>Colorful Kites for Kids, Teenagers, Adults and Families</p>
+
+</header>
+
+<nav>
+
+<a href="#">Home</a>
+<a href="#">Products</a>
+<a href="#">Services</a>
+
+</nav>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>WELCOME TO SKY KITES</h1>
+
+<p>Beautiful and High Quality Kites for All Age People</p>
+
+<a href="#products" class="btn">Shop Now</a>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Our Products</h2>
+
+<div class="products" id="products">
+
+<div class="product">
+
+<img src="https://images.unsplash.com/photo-1516826957135-700dedea698c?w=600">
+
+<div class="info">
+
+<h3>Rainbow Kite</h3>
+
+<p><b>Size:</b> Large</p>
+
+<p><b>Material:</b> Nylon</p>
+
+<p><b>Color:</b> Rainbow</p>
+
+<p class="price">$15</p>
+
+<p class="stock">In Stock</p>
+
+</div>
+
+<button>Buy Now</button>
+
+</div>
+
+<div class="product">
+
+<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600">
+
+<div class="info">
+
+<h3>Diamond Kite</h3>
+
+<p><b>Size:</b> Medium</p>
+
+<p><b>Material:</b> Paper</p>
+
+<p><b>Color:</b> Red & Blue</p>
+
+<p class="price">$10</p>
+
+<p class="stock">In Stock</p>
+
+</div>
+
+<button>Buy Now</button>
+
+</div>
+
+<div class="product">
+
+<img src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=600">
+
+<div class="info">
+
+<h3>Dragon Kite</h3>
+
+<p><b>Size:</b> Extra Large</p>
+
+<p><b>Material:</b> Polyester</p>
+
+<p><b>Color:</b> Green</p>
+
+<p class="price">$25</p>
+
+<p class="stock">Limited Stock</p>
+
+</div>
+
+<button>Buy Now</button>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Our Services</h2>
+
+<div class="services">
+
+<div class="service">🛒 Retail Sales</div>
+
+<div class="service">📦 Wholesale Orders</div>
+
+<div class="service">🎨 Custom Kite Design</div>
+
+<div class="service">🎉 Festival Packages</div>
+
+<div class="service">💻 Online Ordering</div>
+
+<div class="service">🚚 Home Delivery</div>
+
+<div class="service">🎁 Gift Packaging</div>
+
+<div class="service">☎ Customer Support</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<h2>THANK YOU FOR VISITING SKY KITES!</h2>
+
+<p>We provide colorful and high-quality kites for customers of all ages.</p>
+
+<p>© 2026 SKY KITES. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>
