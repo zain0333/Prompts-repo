@@ -1,0 +1,101 @@
+Create a modern, responsive, and professional rental house website for a property located in I-8/1, Islamabad using HTML, CSS, and JavaScript.
+
+The website should have a clean, elegant, and user-friendly design that works perfectly on desktop, tablet, and mobile devices.
+
+Include the following sections:
+
+1. Home
+- Large hero image of the house.
+- Welcome message.
+- "Book a Visit" and "Contact Owner" buttons.
+
+2. About the Property
+- House located in I-8/1, Islamabad.
+- Safe and peaceful residential area.
+- Suitable for families, professionals, and students.
+
+3. Property Details
+Display:
+- Number of Bedrooms
+- Number of Bathrooms
+- Drawing Room
+- TV Lounge
+- Kitchen
+- Dining Area
+- Car Parking
+- Terrace/Balcony
+- Beautiful Garden (if available)
+
+4. Amenities
+Include:
+- High-speed Wi-Fi
+- Air Conditioning
+- Gas and Electricity
+- Water Supply
+- Security
+- Parking
+- Nearby Mosque
+- Nearby Market
+- Nearby Schools
+- Nearby Hospital
+- Public Transport Access
+
+5. Gallery
+Show high-quality images of:
+- Front view
+- Living room
+- Bedrooms
+- Kitchen
+- Bathrooms
+- Parking area
+- Terrace
+
+6. Rental Information
+Include:
+- Monthly Rent
+- Security Deposit
+- Lease Duration
+- Available From
+- Family Preferred (if applicable)
+
+7. Location
+Display:
+- I-8/1, Islamabad
+- Embedded Google Map
+- Nearby landmarks
+
+8. Contact Us
+Include:
+- Owner Name
+- Phone Number
+- WhatsApp Number
+- Email Address
+- Contact Form
+
+9. Frequently Asked Questions
+Examples:
+- Is the house available?
+- What is the monthly rent?
+- Is parking available?
+- Are utilities included?
+- How can I schedule a visit?
+
+10. Footer
+Include:
+- Copyright
+- Contact Information
+- Social Media Links
+- Quick Navigation Links
+
+Design Requirements
+- Modern and professional layout
+- White, blue, and gray color theme
+- Responsive design
+- Smooth scrolling
+- Attractive buttons
+- Professional typography
+- Fast loading
+- SEO-friendly HTML
+- Clean and well-commented HTML, CSS, and JavaScript code
+
+Generate complete HTML, CSS, and JavaScript files with all pages properly linked together.
