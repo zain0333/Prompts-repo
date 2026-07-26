@@ -1,0 +1,15 @@
+ Prompt: Find the Largest Number in Python
+
+Write a simple and beginner-friendly Python program that asks the user to enter three numbers using the `input()` function.
+
+Requirements:
+
+* Accept three numbers from the user.
+* Compare the numbers using `if`, `elif`, and `else` statements.
+* Display the largest number in a clear message.
+* If two or more numbers are equal and are the largest, display that value correctly.
+* Add comments explaining each step of the code.
+* Use easy-to-understand variable names.
+* Keep the code simple so that beginners can easily learn from it.
+* At the end, print a friendly message such as:
+  **"Thank you for using the Largest Number Finder!"**
