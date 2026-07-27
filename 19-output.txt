@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KHAIRAGALI CRICKET GROUND</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#006400;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 40px;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+}
+
+.logo img{
+    width:60px;
+    margin-right:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-left:20px;
+    font-size:18px;
+}
+
+nav a:hover{
+    color:yellow;
+}
+
+.hero{
+    background:url("ground.jpg") center/cover no-repeat;
+    height:90vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    color:white;
+}
+
+.hero-content{
+    background:rgba(0,0,0,0.6);
+    padding:40px;
+    border-radius:10px;
+}
+
+.hero h1{
+    font-size:50px;
+}
+
+.hero p{
+    font-size:22px;
+    margin-top:15px;
+}
+
+.button{
+    display:inline-block;
+    margin-top:25px;
+    background:#ffcc00;
+    color:black;
+    padding:15px 35px;
+    text-decoration:none;
+    font-size:20px;
+    border-radius:5px;
+}
+
+.button:hover{
+    background:orange;
+}
+
+section{
+    padding:60px 40px;
+}
+
+h2{
+    text-align:center;
+    color:#006400;
+    margin-bottom:30px;
+}
+
+.services{
+    max-width:900px;
+    margin:auto;
+}
+
+.services ul{
+    font-size:20px;
+    line-height:2;
+}
+
+.booking{
+    text-align:center;
+    margin-top:30px;
+}
+
+.booking input{
+    width:300px;
+    padding:12px;
+    margin:10px;
+}
+
+.booking button{
+    padding:12px 25px;
+    background:#006400;
+    color:white;
+    border:none;
+    cursor:pointer;
+    font-size:18px;
+}
+
+.booking button:hover{
+    background:#008000;
+}
+
+.contact{
+    max-width:700px;
+    margin:auto;
+    font-size:20px;
+    line-height:2;
+}
+
+footer{
+    background:#006400;
+    color:white;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+<img src="https://cdn-icons-png.flaticon.com/512/857/857455.png" alt="Cricket Logo">
+<h2>KHAIRAGALI CRICKET GROUND</h2>
+</div>
+
+<nav>
+<a href="#">Home</a>
+<a href="#services">Services</a>
+<a href="#contact">Contact Us</a>
+</nav>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>Welcome to</h1>
+
+<h1>KHAIRAGALI CRICKET GROUND</h1>
+
+<p>
+Book your cricket ground today and enjoy your match with friends!
+</p>
+
+<a href="#booking" class="button">Book Now</a>
+
+</div>
+
+</section>
+
+<section id="booking">
+
+<h2>Ground Booking</h2>
+
+<div class="booking">
+
+<input type="text" placeholder="Your Name"><br>
+
+<input type="tel" placeholder="Phone Number"><br>
+
+<input type="date"><br>
+
+<input type="time"><br>
+
+<button>Book Ground</button>
+
+</div>
+
+</section>
+
+<section id="services">
+
+<h2>Our Services</h2>
+
+<div class="services">
+
+<ul>
+<li>✔ We provide a well-maintained cricket ground and wicket.</li>
+<li>✔ Players must bring their own bat and ball.</li>
+<li>✔ Ground booking charges are <strong>PKR 1,500 per hour.</strong></li>
+<li>✔ No disturbance will occur during your booked time.</li>
+<li>✔ Everyone can book this ground. There are no restrictions for outside visitors.</li>
+<li>✔ Smoking is strictly prohibited inside the ground.</li>
+<li>✔ Any damage caused to ground property or equipment by players will be charged accordingly.</li>
+</ul>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<div class="contact">
+
+<p><strong>Phone:</strong> +92-300-1234567</p>
+
+<p><strong>Email:</strong> khairagalicricketground@gmail.com</p>
+
+<p><strong>Address:</strong> Khairagali, Pakistan</p>
+
+<p><strong>Owner Contact:</strong> +92-301-9876543</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<h3>Thank You for Visiting This Site!</h3>
+
+<p>We look forward to welcoming you to KHAIRAGALI CRICKET GROUND.</p>
+
+</footer>
+
+</body>
+</html>
