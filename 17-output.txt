@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GIGA SPORTS SHOP</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#111;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px 50px;
+}
+
+header h1{
+    color:#00ff66;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-size:18px;
+}
+
+nav a:hover{
+    color:#00ff66;
+}
+
+.hero{
+    height:90vh;
+    background:
+    linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
+    url("hero.jpg");
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    color:white;
+}
+
+.hero h2{
+    font-size:55px;
+}
+
+.hero p{
+    margin-top:15px;
+    font-size:22px;
+}
+
+.hero button{
+    margin-top:25px;
+    padding:15px 35px;
+    border:none;
+    background:#00cc44;
+    color:white;
+    font-size:20px;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+.hero button:hover{
+    background:#009933;
+}
+
+section{
+    padding:60px 40px;
+}
+
+h2{
+    text-align:center;
+    margin-bottom:30px;
+    color:#006600;
+}
+
+.services{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.2);
+    text-align:center;
+}
+
+.discount{
+    background:#009933;
+    color:white;
+    padding:25px;
+    margin-top:30px;
+    border-radius:10px;
+    text-align:center;
+    font-size:22px;
+}
+
+.about{
+    text-align:center;
+    line-height:2;
+}
+
+.about a{
+    text-decoration:none;
+    color:blue;
+}
+
+form{
+    max-width:500px;
+    margin:auto;
+}
+
+input,textarea{
+    width:100%;
+    padding:12px;
+    margin:10px 0;
+}
+
+button.submit{
+    background:#0066cc;
+    color:white;
+    border:none;
+    padding:12px;
+    cursor:pointer;
+}
+
+footer{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>GIGA SPORTS SHOP</h1>
+
+<nav>
+<a href="#">Home</a>
+<a href="#about">About Us</a>
+<a href="#help">Help</a>
+</nav>
+
+</header>
+
+<section class="hero">
+
+<div>
+
+<h2>Welcome to GIGA SPORTS SHOP</h2>
+
+<p>
+Premium Cricket Bats, Balls & Sports Equipment
+for Everyone.
+</p>
+
+<p>
+Hero Banner:<br>
+Babar Azam & Mohammad Rizwan holding bats.<br>
+Shaheen Afridi & Naseem Shah holding cricket balls.
+</p>
+
+<button>Shop Now</button>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Our Services</h2>
+
+<div class="services">
+
+<div class="card">
+<h3>Premium Cricket Bats</h3>
+<p>High-quality cricket bats for beginners and professionals.</p>
+</div>
+
+<div class="card">
+<h3>Premium Cricket Balls</h3>
+<p>Leather and tennis balls with excellent quality.</p>
+</div>
+
+<div class="card">
+<h3>Sports Accessories</h3>
+<p>Gloves, pads, helmets, kits and more.</p>
+</div>
+
+</div>
+
+<div class="discount">
+🎉 End of Every Week Special Discount Offers Available! 🎉
+</div>
+
+</section>
+
+<section id="about">
+
+<h2>About Us</h2>
+
+<div class="about">
+
+<p>
+Welcome to <strong>GIGA SPORTS SHOP</strong>.
+We provide quality sports equipment for players of all ages.
+Our shop is available for everyone.
+</p>
+
+<h3>Follow Us</h3>
+
+<p>
+Instagram:
+<a href="https://instagram.com" target="_blank">
+https://instagram.com
+</a>
+</p>
+
+<p>
+TikTok:
+<a href="https://tiktok.com" target="_blank">
+https://tiktok.com
+</a>
+</p>
+
+<p>
+WhatsApp Channel:
+<a href="https://whatsapp.com/channel" target="_blank">
+https://whatsapp.com/channel
+</a>
+</p>
+
+</div>
+
+</section>
+
+<section id="help">
+
+<h2>Contact Us</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name" required>
+
+<input type="email" placeholder="Your Email" required>
+
+<textarea rows="5" placeholder="Write your message"></textarea>
+
+<button class="submit">Send Message</button>
+
+</form>
+
+</section>
+
+<footer>
+
+<p>Thank you for visiting GIGA SPORTS SHOP.</p>
+
+<p>If you purchase anything from our shop, Thank You for Shopping Here!</p>
+
+<p>We welcome everyone to shop with us.</p>
+
+</footer>
+
+</body>
+</html>
