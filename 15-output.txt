@@ -1,0 +1,54 @@
+# Import the random module
+import random
+
+# Display a welcome message
+print("===================================")
+print("🎮 Welcome to the Number Guessing Game!")
+print("I have chosen a number between 1 and 100.")
+print("You have 5 chances to guess it.")
+print("===================================\n")
+
+# Generate a random number between 1 and 100
+secret_number = random.randint(1, 100)
+
+# Number of attempts
+attempts = 0
+
+# Maximum number of chances
+max_attempts = 5
+
+# Keep asking the user until they run out of chances
+while attempts < max_attempts:
+
+    # Ask the user to enter a guess
+    guess = int(input("Enter your guess: "))
+
+    # Increase the attempt counter
+    attempts += 1
+
+    # Check if the guess is correct
+    if guess == secret_number:
+        print("\n🎉 Congratulations!")
+        print("You guessed the correct number!")
+        print("You took", attempts, "attempt(s).")
+        break
+
+    # Give a hint if the guess is too low
+    elif guess < secret_number:
+        print("📉 Too Low!")
+
+    # Give a hint if the guess is too high
+    else:
+        print("📈 Too High!")
+
+    # Show remaining chances
+    print("Remaining chances:", max_attempts - attempts)
+    print()
+
+# If the player did not guess correctly
+if attempts == max_attempts and guess != secret_number:
+    print("\n😢 Game Over!")
+    print("You used all 5 chances.")
+    print("The correct number was:", secret_number)
+
+print("\nThank you for playing! 😊")
