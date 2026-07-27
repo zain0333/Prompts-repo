@@ -1,0 +1,5 @@
+Write a Python program using a for loop to print numbers from 1 to 10.
+Explain how a for loop works in Python with a simple example.
+Create a Python for loop that prints each item in a list.
+Write a for loop to display the multiplication table of a given number.
+Use a for loop to calculate the sum of numbers from 1 to 100.
