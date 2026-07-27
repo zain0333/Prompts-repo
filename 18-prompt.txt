@@ -1,0 +1,8 @@
+Write a Python program that asks the user to enter a number and prints its multiplication table.
+Create a Python program to display the multiplication table of a number entered by the user.
+Develop a Python program that takes a number as input and prints its table from 1 to 10.
+Build a beginner-friendly Python program that generates the multiplication table of a user-entered number.
+Write a Python program using a for loop to print the multiplication table of a number entered by the user.
+Create a Python program that accepts a number from the user and displays its multiplication table in a clear format.
+Develop a command-line Python program that prints the multiplication table of any number entered by the user.
+Write a simple Python program that uses user input and a loop to display a multiplication table.
