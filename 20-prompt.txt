@@ -1,0 +1,28 @@
+Create a modern, responsive, and professional website for 
+a cricket tournament called "Khair Agali Cricket 
+Tournament" hosted at "Khair Agali Cricket Ground." 
+Design the website with a premium cricket theme using 
+green, black, and gold colors. Add a full-screen hero 
+banner featuring an exciting cricket stadium atmosphere 
+with players in action. Include a navigation bar with 
+Home, Tournament, Teams, Fixtures, Points Table, Gallery,
+ Rules, Registration, Sponsors, Contact Us, and Live Score.
+ Add a prominent "Register Now" button on the homepage.
+ Display tournament details such as date, venue, entry fee
+prize money, match timings, and tournament format. 
+Include a team registration form, player registration 
+section, and online booking form. Add fixtures, match schedules, points table, top batsmen, top bowlers, and 
+player statistics. Include a gallery for tournament 
+photos and videos. Add tournament rules stating fair 
+play, no smoking inside the ground, no disturbance 
+during matches, and penalties for damaging ground 
+ property. Include sponsor logos, testimonials from
+teams, FAQs, Google Maps location, and contact details 
+including phone number, WhatsApp, email, and social 
+ media links. Add a footer with copyright information 
+and the message: "Thank you for visiting Khair Agali 
+ Cricket Tournament. We welcome all cricket lovers to 
+ participate and enjoy the spirit of the game." Ensure
+ the website is fully responsive, visually attractive,
+ and built using HTML, CSS, and JavaScript with smooth
+  animations and interactive features.
