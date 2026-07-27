@@ -1,0 +1,12 @@
+give me a code of my sports shop.
+ HOME: in background hero banner in which babar and rizwan has bat and shaheen and naseem has ball in hand 
+ shop name "GIGA SPORTS SHOP" 
+ in this there is home , about us , help function 
+ there is also a shop now button 
+ SERVICES: at the end of week their will be discount offers availabe
+ there is high quality bats and balls 
+ ABOUT US: also add our instagram, tiktok and whatsapp channel link also 
+ add contact us function 
+ at the end print thanks for visiting here and if anyone 
+ purchase any thing print thank for shopping here this is
+  available for all peoples
