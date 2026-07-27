@@ -1,0 +1,9 @@
+Write a Python program for a basic calculator.
+Create a simple calculator using Python.
+Build a beginner-friendly calculator in Python.
+Develop a Python calculator that performs basic arithmetic operations.
+Write a calculator program using Python with user input.
+Build a Python calculator using if-else statements.
+Write a calculator program that uses functions in Python.
+Create a basic calculator using variables, user input, and conditional statements.
+Develop a simple command-line calculator in Python for beginners.
