@@ -1,0 +1,10 @@
+Write a Python program for a simple number guessing game.
+Create a Python guessing game where the user guesses a random number between 1 and 100.
+Write a Python program that gives hints like "Too High" or "Too Low" until the correct number is guessed.
+Create a number guessing game using a while loop and the random module.
+Write a beginner-friendly Python guess game with comments explaining each line of code.
+Build a Python guessing game that counts how many attempts the user takes to guess the correct number.
+Create a simple guess game where the player has only 5 chances to guess the correct number.
+Write a Python program that generates a random number and asks the user to guess it until they win.
+Create a fun number guessing game with a welcome message, hints, and a congratulations message when the player wins.
+Generate a beginner-level Python guess game using only basic concepts like variables, if statements, loops, and user input.
